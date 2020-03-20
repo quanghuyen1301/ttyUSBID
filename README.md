@@ -24,3 +24,4 @@ List | Sort | Converter ttyUSB id to serial number
 	ttyUSB0
 ## Open ttyUSB via serial number
 	$minicom -D /dev/`python -m ttyUSBID FTAXMM1E`
+	$kermit -c -y .kermit_`python -m ttyUSBID FTAXMM1E`
