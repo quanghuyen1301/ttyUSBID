@@ -1,11 +1,11 @@
 from setuptools import setup
 
-setup(name='ttyusb_id',
+setup(name='ttyUSBID',
       version='1.0.0',
       description='Local/ssh List|Short|Conversion ttyUSB serial <--> id',
-      url='https://github.com/quanghuyen1301/ttyusb_id.git',
+      url='https://github.com/quanghuyen1301/ttyUSBID.git',
       author='quanghuyen1301',
       author_email='quanghuyen1301@gmail.com',
       license='Unlicense',
-      packages=['ttyusb_id'],
+      packages=['ttyUSBID'],
       zip_safe=False)
