@@ -7,7 +7,7 @@ List | Sort | Converter ttyUSB id to serial number
 ## List ttyUSB id and serial number Sort by kernel mount ttyUSB
 	$python -m ttyUSBID
 	TIME TTYUSB SERIAL
-	[2644609.259334] ttyUSB5 FTHK9JP9
+	[2644609.259334] ttyUSB5 FTHK9JP9  --> New device
 	[2644606.689701] ttyUSB4 FTBELQCK
 	[2467077.574854] ttyUSB8 A10179GG
 	[2467002.839031] ttyUSB9 AC01X49W
