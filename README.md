@@ -19,7 +19,7 @@ List | Sort | Converter ttyUSB id to serial number
 ## Converter ttyUSB id to serial number
 	$python -m ttyUSBID ttyUSB0
 	FTAXMM1E
-## Converter ttyUSB serial number to id
+## Converter serial number to ttyUSB id
 	$python -m ttyUSBID FTAXMM1E
 	ttyUSB0
 ## Open ttyUSB via serial number
